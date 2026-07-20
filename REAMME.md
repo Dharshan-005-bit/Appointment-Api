@@ -36,6 +36,20 @@ This API allows users to create, view, update, and delete appointments.
 
 ---
 
+## 📸 Screenshots
+
+### GET All Appointments
+![GET](./get-appointments.png)
+
+### POST Appointment
+![POST](./post-appointment.png)
+
+### Delete Appointment
+![POST](./delete-appointmen.png)
+
+## 🌐 Base URL
+http://localhost:8080
+
 ## 📥 Sample Request
 
 ### ➤ Create Appointment
@@ -49,4 +63,5 @@ POST `/appointments`
 "time": "10:30 AM",
 "description": "Doctor visit"
 }
+
 
